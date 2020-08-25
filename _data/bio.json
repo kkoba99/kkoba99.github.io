@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Kylee Dean-Kobatake",
+    "label": "Shidler Undergraduate",
+    "picture": "https://kkoba99.github.io/images/molly.png",
+    "email": "kkak@hawaii.edu",
+    "phone": "",
+    "website": "https://kkoba99.github.io",
+    "summary": "I am studying for a B.B.A. in Management Information Systems in the SHidler College of Business at the University of Hawaii. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -17,41 +17,31 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "kkoba99",
         "url": "http://github.com/changeme"
-      },
-      {
-        "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Foreign Cultures",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Nature",
+      "keywords": [
+      ]
+    },
+     {
+      "name": "Museums",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "New Technology",
       "keywords": [
       ]
     }
