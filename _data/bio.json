@@ -56,6 +56,18 @@
       ]
     }
   ],
+  "skills": [
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": [
+        "Word",
+        "Excel",
+        "Powerpoint",
+        "Javascript"
+      ]
+    }
+   ],
   "work": [
     {
       "company": "University of Hawaii at Manoa Athletics",
