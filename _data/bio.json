@@ -63,11 +63,19 @@
       "keywords": [
         "Word",
         "Excel",
-        "Powerpoint",
-        "Javascript"
+        "Powerpoint"
+      ]
+    },
+    {
+      "name": "Adobe Creative Suite",
+      "level": "",
+      "keywords": [
+        "Photoshop",
+        "InDesign",
+        "Premiere Pro"
       ]
     }
-   ],
+  ],
   "work": [
     {
       "company": "University of Hawaii at Manoa Athletics",
