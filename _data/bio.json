@@ -4,7 +4,7 @@
     "label": "Shidler Undergraduate",
     "picture": "https://kkoba99.github.io/images/face.jpg",
     "email": "kkak@hawaii.edu",
-    "phone": "808-298-2706",
+    "phone": "(808-298-2706)",
     "website": "https://kkoba99.github.io",
     "summary": "I am studying for a B.B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Spring, 2022.",
     "location": {
@@ -80,7 +80,7 @@
     {
       "company": "University of Hawaii at Manoa Athletics",
       "position": "Sports Media Relations Student Assistant",
-      "website": "",
+      "website": "https://hawaiiathletics.com/",
       "startDate": "2019-12-19",
       "endDate": "Present",
       "summary": "Assisted in UH Athletics Media Relations activities",
