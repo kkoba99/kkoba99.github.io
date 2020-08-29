@@ -4,7 +4,7 @@
     "label": "Shidler Undergraduate",
     "picture": "https://kkoba99.github.io/images/face.jpg",
     "email": "kkak@hawaii.edu",
-    "phone": "",
+    "phone": "808-298-2706",
     "website": "https://kkoba99.github.io",
     "summary": "I am studying for a B.B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Spring, 2022.",
     "location": {
@@ -91,7 +91,7 @@
       ]
     }
    ],
-   "Activities": [
+   "activities": [
     {
       "organization": "International Business Organization at UHM",
       "website": "",
